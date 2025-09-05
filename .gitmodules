@@ -1,0 +1,3 @@
+[submodule "vendor/eflutils"]
+	path = vendor/eflutils
+	url = https://github.com/sourceware-org/elfutils
